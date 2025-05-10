@@ -1,5 +1,5 @@
 {
-  "name": "ASITHA-MD",
+  "name": "MWALIMUWAPES",
   "description": "Javascript WhatsApp bot made by Asitha",
   "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=zjJigLSQ#Tmigzxx-HaftG3rjlYv4EPftoD_272wFVw7eoaGOB-Q.",
       "required": true
     }
 },
